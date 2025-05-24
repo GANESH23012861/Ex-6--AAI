@@ -1,5 +1,5 @@
-<H3>NAME: ARUN KUMAR B </H3>
-<H3>REGISTER NO: 212223230021 </H3>
+<H3>NAME: selvaganesh R </H3>
+<H3>REGISTER NO: 212223230200 </H3>
 
 ## <h3>Aim:</h3>
 To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.
